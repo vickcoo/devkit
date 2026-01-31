@@ -37,7 +37,7 @@ export default function Footer() {
           <div className="col-span-2">
             <div className="mb-4 flex items-center gap-2">
               <Terminal className="h-6 w-6 text-primary" />
-              <span className="text-xl font-bold">DevKit</span>
+              <span className="text-xl font-bold">BlueprintKit</span>
             </div>
             <p className="mb-4 max-w-xs text-sm text-muted-foreground">
               Production-ready templates that save developers 4-8 hours per

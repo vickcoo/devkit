@@ -1,17 +1,19 @@
-# DevKit - Scaffold Production-Ready Code in Seconds
+# BlueprintKit - Scaffold Production-Ready Code in Seconds
 
 > AI-powered templates that save developers 4-8 hours per project.
 
-[![npm version](https://img.shields.io/npm/v/@devkit/cli.svg)](https://www.npmjs.com/package/@devkit/cli)
-[![Downloads](https://img.shields.io/npm/dm/@devkit/cli.svg)](https://www.npmjs.com/package/@devkit/cli)
-[![License](https://img.shields.io/npm/l/@devkit/cli.svg)](https://github.com/devkit/devkit/blob/main/LICENSE)
+[![npm version](https://img.shields.io/npm/v/blueprintkit.svg)](https://www.npmjs.com/package/blueprintkit)
+[![Downloads](https://img.shields.io/npm/dm/blueprintkit.svg)](https://www.npmjs.com/package/blueprintkit)
+[![License](https://img.shields.io/npm/l/blueprintkit.svg)](https://github.com/vickcoo/devkit/blob/main/LICENSE)
 
 ---
 
 ## 🚀 Quick Start
 
 ```bash
-npx @devkit/cli init
+npx blueprintkit init
+# or use the short alias
+npx bpkit init
 ```
 
 That's it! Select a template and start coding.

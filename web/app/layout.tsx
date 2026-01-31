@@ -5,11 +5,11 @@ import '../styles/globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'DevKit - Scaffold Production-Ready Code in Seconds',
+  title: 'BlueprintKit - Scaffold Production-Ready Code in Seconds',
   description:
     'AI-powered templates that save developers 4-8 hours per project. Get production-ready Next.js, Express, and React Native starters instantly.',
   keywords: [
-    'devkit',
+    'blueprintkit',
     'code templates',
     'nextjs template',
     'express template',

@@ -7,8 +7,8 @@ const steps = [
     number: '01',
     icon: Terminal,
     title: 'Choose Your Template',
-    description: 'Run npx @devkit/cli init and select from curated templates',
-    code: 'npx @devkit/cli init',
+    description: 'Run npx blueprintkit init and select from curated templates',
+    code: 'npx blueprintkit init',
   },
   {
     number: '02',

@@ -2,7 +2,7 @@
 
 > Scaffold production-ready projects in seconds with AI-powered templates.
 
-[![npm version](https://badge.fury.io/js/%40devkit%2Fcli.svg)](https://www.npmjs.com/package/@devkit/cli)
+[![npm version](https://badge.fury.io/js/%40devkit%2Fcli.svg)](https://www.npmjs.com/package/blueprintkit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 DevKit is a powerful CLI tool that helps developers scaffold production-ready projects instantly. Skip the boilerplate and start building features on day one.
@@ -18,7 +18,9 @@ DevKit is a powerful CLI tool that helps developers scaffold production-ready pr
 ## 🚀 Quick Start
 
 ```bash
-npx @devkit/cli init
+npx blueprintkit init
+# or use the short alias
+npx bpkit init
 ```
 
 That's it! Follow the interactive prompts to select your template and project name.
@@ -57,19 +59,19 @@ That's it! Follow the interactive prompts to select your template and project na
 ### Initialize a New Project
 
 ```bash
-npx @devkit/cli init
+npx blueprintkit init
 ```
 
 ### List All Templates
 
 ```bash
-npx @devkit/cli list
+npx blueprintkit list
 ```
 
 ### Configure CLI
 
 ```bash
-npx @devkit/cli config
+npx blueprintkit config
 ```
 
 ## 🎯 Why DevKit?

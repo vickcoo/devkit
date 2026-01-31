@@ -65,7 +65,7 @@ export default function Hero() {
             <div className="p-6 font-mono text-sm">
               <div className="mb-2">
                 <span className="text-accent">$</span>{' '}
-                <span className="text-primary">npx @devkit/cli init</span>
+                <span className="text-primary">npx blueprintkit init</span>
               </div>
               <div className="mb-4 text-muted-foreground">
                 <div>✓ Select template: Next.js + Tailwind CSS</div>
