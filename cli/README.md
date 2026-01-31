@@ -108,8 +108,8 @@ MIT © Vick
 
 - [Website](https://devkit.dev)
 - [Documentation](https://devkit.dev/docs)
-- [GitHub](https://github.com/yourusername/devkit)
-- [Issues](https://github.com/yourusername/devkit/issues)
+- [GitHub](https://github.com/vickcoo/devkit)
+- [Issues](https://github.com/vickcoo/devkit/issues)
 
 ---
 

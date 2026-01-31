@@ -10,7 +10,7 @@ const navigation = {
   ],
   resources: [
     { name: 'Documentation', href: '#' },
-    { name: 'GitHub', href: 'https://github.com/yourusername/devkit' },
+    { name: 'GitHub', href: 'https://github.com/vickcoo/devkit' },
     { name: 'Blog', href: '#' },
   ],
   company: [
@@ -21,7 +21,7 @@ const navigation = {
   social: [
     {
       name: 'GitHub',
-      href: 'https://github.com/yourusername/devkit',
+      href: 'https://github.com/vickcoo/devkit',
       icon: Github,
     },
     { name: 'Twitter', href: 'https://twitter.com/devkit', icon: Twitter },

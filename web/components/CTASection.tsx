@@ -68,7 +68,7 @@ export default function CTASection() {
           <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
             <span className="text-sm text-muted-foreground">or</span>
             <a
-              href="https://github.com/yourusername/devkit"
+              href="https://github.com/vickcoo/devkit"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-sm font-medium text-primary transition-colors hover:text-primary/80"

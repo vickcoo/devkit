@@ -39,10 +39,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/devkit.git"
+    "url": "https://github.com/vickcoo/devkit.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/devkit/issues"
+    "url": "https://github.com/vickcoo/devkit/issues"
   },
   "homepage": "https://devkit.dev",
   "dependencies": {
