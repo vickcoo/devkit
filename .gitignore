@@ -8,28 +8,6 @@ dist/
 build/
 coverage/
 
-# Internal planning documents (private)
-LAUNCH_INSTRUCTIONS.md
-PRODUCT_HUNT_LAUNCH.md
-NEXT_STEPS.md
-QUICK_START_GUIDE.md
-DEPLOYMENT_GUIDE.md
-LAUNCH_PLAN.md
-PROGRESS_REPORT.md
-market-research.md
-FINAL_SUMMARY.md
-STATUS.md
-DEPLOY_NOW.md
-FINAL_CHECKLIST.md
-GITHUB_REPO_STATUS.md
-PROJECT_STATUS.md
-REBRAND_SUMMARY.md
-
-# Web internal docs
-web/DEPLOYMENT.md
-web/LAUNCH_CHECKLIST.md
-web/PROJECT_SUMMARY.md
-
-# Web deployment docs (internal use only)
-web/DEPLOY_CHECKLIST.md
-web/GITHUB_AUTO_DEPLOY.md
+# Internal documentation (private, never commit)
+# All internal docs, deployment guides, checklists, planning documents
+.internal/
