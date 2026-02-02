@@ -11,3 +11,7 @@ coverage/
 # Internal documentation (private, never commit)
 # All internal docs, deployment guides, checklists, planning documents
 .internal/
+
+# AI assistant instructions (private)
+AGENTS.md
+CLAUDE.md
