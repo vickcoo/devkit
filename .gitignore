@@ -29,3 +29,7 @@ REBRAND_SUMMARY.md
 web/DEPLOYMENT.md
 web/LAUNCH_CHECKLIST.md
 web/PROJECT_SUMMARY.md
+
+# Web deployment docs (internal use only)
+web/DEPLOY_CHECKLIST.md
+web/GITHUB_AUTO_DEPLOY.md
