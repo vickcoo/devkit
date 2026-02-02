@@ -111,7 +111,7 @@ export default function TemplateShowcase() {
         {/* View all CTA */}
         <div className="mt-12 text-center">
           <a
-            href="https://github.com/devkit-templates"
+            href="https://github.com/vickcoo/BlueprintKit/tree/main/templates"
             className="inline-flex items-center gap-2 text-primary transition-colors hover:text-primary/80"
           >
             View all templates on GitHub

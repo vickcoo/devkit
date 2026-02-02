@@ -10,7 +10,7 @@ const navigation = {
   ],
   resources: [
     { name: 'Documentation', href: '#' },
-    { name: 'GitHub', href: 'https://github.com/vickcoo/devkit' },
+    { name: 'GitHub', href: 'https://github.com/vickcoo/BlueprintKit' },
     { name: 'Blog', href: '#' },
   ],
   company: [
@@ -21,10 +21,10 @@ const navigation = {
   social: [
     {
       name: 'GitHub',
-      href: 'https://github.com/vickcoo/devkit',
+      href: 'https://github.com/vickcoo/BlueprintKit',
       icon: Github,
     },
-    { name: 'Twitter', href: 'https://twitter.com/devkit', icon: Twitter },
+    { name: 'Twitter', href: 'https://twitter.com/blueprintkit', icon: Twitter },
   ],
 };
 
