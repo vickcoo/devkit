@@ -1,7 +1,7 @@
 {
   "name": "blueprintkit-web",
   "version": "0.1.0",
-  "description": "BlueprintKit - AI-powered templates that save developers 4-8 hours per project",
+  "description": "BlueprintKit - Open-source CLI with production-ready templates",
   "private": true,
   "scripts": {
     "dev": "next dev",

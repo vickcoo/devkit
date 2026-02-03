@@ -1,13 +1,21 @@
 import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
+import { Bricolage_Grotesque, Spline_Sans } from 'next/font/google';
 import '../styles/globals.css';
 
-const inter = Inter({ subsets: ['latin'] });
+const displayFont = Bricolage_Grotesque({
+  subsets: ['latin'],
+  variable: '--font-display',
+});
+
+const bodyFont = Spline_Sans({
+  subsets: ['latin'],
+  variable: '--font-body',
+});
 
 export const metadata: Metadata = {
-  title: 'BlueprintKit - Scaffold Production-Ready Code in Seconds',
+  title: 'BlueprintKit - Scaffold Production-Ready Projects in Minutes',
   description:
-    'AI-powered templates that save developers 4-8 hours per project. Get production-ready Next.js, Express, and React Native starters instantly.',
+    'BlueprintKit is an open-source CLI that scaffolds production-ready projects in seconds. 15+ templates for modern stacks.',
   keywords: [
     'blueprintkit',
     'code templates',
@@ -18,19 +26,19 @@ export const metadata: Metadata = {
     'boilerplate',
     'scaffold',
   ],
-  authors: [{ name: 'DevKit' }],
+  authors: [{ name: 'BlueprintKit' }],
   openGraph: {
-    title: 'DevKit - Scaffold Production-Ready Code in Seconds',
+    title: 'BlueprintKit - Scaffold Production-Ready Projects in Minutes',
     description:
-      'AI-powered templates that save developers 4-8 hours per project',
+      'Open-source CLI with 15+ templates for Next.js, Express, React Native, and more.',
     type: 'website',
     locale: 'en_US',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'DevKit - Scaffold Production-Ready Code in Seconds',
+    title: 'BlueprintKit - Scaffold Production-Ready Projects in Minutes',
     description:
-      'AI-powered templates that save developers 4-8 hours per project',
+      'Open-source CLI with 15+ templates for modern stacks.',
   },
 };
 
@@ -41,7 +49,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="dark">
-      <body className={inter.className}>{children}</body>
+      <body className={`${displayFont.variable} ${bodyFont.variable}`}>
+        {children}
+      </body>
     </html>
   );
 }
